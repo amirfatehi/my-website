@@ -4,3 +4,4 @@ This is really awesome website!
 * Now updateing on update-readme branch
 * updtaed locally!!!
 * AND now updating remotely AGAIN!!!
+* updates made on master before rebase! 
