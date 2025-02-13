@@ -7,4 +7,4 @@ This is really awesome website!
 * updates made on master before rebase! 
 ## Repository purpose
 This will be a change that conflicts with whatever is on the remote side! 
-This was edited locally! 
+The change is now resolved through P4Merge! 
