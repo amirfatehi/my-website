@@ -1,0 +1,15 @@
+# my-website
+This is really awesome website!
+* This is a change to test out the branching lesson! 
+* Now updateing on update-readme branch
+* updtaed locally!!!
+* AND now updating remotely AGAIN!!!
+* updates made on master before rebase! 
+<<<<<<< HEAD
+## Repository purpose
+This will be a change that conflicts with whatever is on the remote side! 
+This was edited locally! 
+=======
+#New Changes
+* making trouble!
+>>>>>>> 925dcef535f7c546a00658fdd559b0a4d32359bf
